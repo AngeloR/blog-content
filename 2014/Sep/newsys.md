@@ -47,3 +47,11 @@ allowing static caching (nginx) to handle serving up the pages.
 
 > By keeping things separate like this I think I've finally found a blogging 
 system that I like. 
+
+## Public Repos
+As always, I've made everything behind the system public. You can find all the 
+code and content publicly available on github.
+
+[angelor/blog-server](https://github.com/AngeloR/blog-server)  
+[angelor/blog-ui](https://github.com/angelor/blog-ui) 
+[angelor/blog-content](https://github.com/angelor/blog-content)
