@@ -53,5 +53,5 @@ As always, I've made everything behind the system public. You can find all the
 code and content publicly available on github.
 
 [angelor/blog-server](https://github.com/AngeloR/blog-server)  
-[angelor/blog-ui](https://github.com/angelor/blog-ui) 
+[angelor/blog-ui](https://github.com/angelor/blog-ui)  
 [angelor/blog-content](https://github.com/angelor/blog-content)
