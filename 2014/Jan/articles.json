@@ -1,0 +1,31 @@
+[
+
+    {
+        "name": "Supporting YubiKey",
+        "slug": "supporting-yubikey",
+        "file": "supporting_yubikey.md",
+        "author": "Angelo R <xangelo@gmail.com>",
+        "pubdate": "2014/01/22"
+    },
+    {
+        "name": "Lines of Code",
+        "slug": "lines-of-code",
+        "file": "loc.md",
+        "author": "Angelo R <xangelo@gmail.com>",
+        "pubdate": "2014/01/23"
+    },
+    {
+        "name": "Git core.autocrlf",
+        "slug": "git-core-autocrlf",
+        "file": "git-core-autocrlf.md",
+        "author": "Angelo R <xangelo@gmail.com>",
+        "pubdate": "2014/01/24"
+    },
+    {
+        "name": "Making vm your IDE",
+        "slug": "making-vim-your-ide",
+        "file": "making-vim-your-ide.md",
+        "author": "Angelo R <xangelo@gmail.com>",
+        "pubdate": "2014/01/28"
+    }
+]

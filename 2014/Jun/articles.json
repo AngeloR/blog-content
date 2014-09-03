@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Today, ops is beautiful",
+        "slug": "today-ops-is-beautiful",
+        "file": "today.md",
+        "author": "Angelo R <xangelo@gmail.com>",
+        "pubdate": "2014/06/19"
+    },
+    {
+        "name": "Never interrupt a programmer...",
+        "slug": "never-interrupt-a-programmer",
+        "file": "never_interrupt.md",
+        "author": "Angelo R <xangelo@gmail.com>",
+        "pubdate": "2014/06/23"
+    }
+]

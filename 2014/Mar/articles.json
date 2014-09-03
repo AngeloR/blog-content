@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Api Logging with Graylog2 - PHP Logging",
+        "slug": "api-logging-with-graylog2-php",
+        "file": "graylog2_logging_setup.md",
+        "author": "Angelo R <xangelo@gmail.com>",
+        "pubdate": "2014/03/05"
+    }, 
+    {
+        "name": "Anachronistic Programming",
+        "slug": "anachronistic-programming",
+        "file": "anachronistic-programming.md",
+        "author": "Angelo R <xangelo@gmail.com>",
+        "pubdate": "2014/03/05"
+    },
+    {
+        "name": "Becoming a web developer",
+        "slug": "becoming-a-web-developer",
+        "file": "becoming-a-web-developer.md",
+        "author": "Angelo R <xangelo@gmail.com>",
+        "pubdate": "2014/03/17"
+    }
+]

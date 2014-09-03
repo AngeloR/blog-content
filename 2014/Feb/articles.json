@@ -1,0 +1,9 @@
+[
+    {
+        "name": "Api Logging with Graylog2 - Server Setup",
+        "slug": "api-logging-with-graylog2",
+        "file": "graylog2_server_setup.md",
+        "author": "Angelo R <xangelo@gmail.com>",
+        "pubdate": "2014/02/14"
+    }
+]

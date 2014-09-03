@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Twemproxy: An Intro for Redis",
+        "slug": "twemproxy-an-intro-for-redis",
+        "file": "twemproxy.md",
+        "author": "Angelo R <xangelo@gmail.com>",
+        "pubdate": "2014/05/20"
+    },
+    {
+        "name": "Building your API - The things everyone forgets",
+        "slug": "building-your-api-the-thing-everyone-forgets",
+        "file": "building_your_api.md",
+        "author": "Angelo R <xangelo@gmail.com>",
+        "pubdate": "2014/05/22"
+    }
+]
