@@ -5,5 +5,12 @@
         "file": "proxies.md",
         "author": "Angelo R <xangelo@gmail.com>",
         "pubdate": "2014/10/16"
+    }, 
+    {
+        "name": "Planning for scalability, not scale",
+        "slug": "scalability-not-scale",
+        "file": "scalability.md",
+        "author": "Angelo R <xangelo@gmail.com>",
+        "pubdate": "2014/10/17"
     }
 ]
